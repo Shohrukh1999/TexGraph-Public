@@ -9,14 +9,14 @@
         {
             "name": "input",
             "display_name": "Input",
-            "type": "RGB"
+            "texture_type": "ANY"
         }
     ],
     "output_pins": [
         {
             "name": "output",
             "display_name": "Output",
-            "type": "RGB"
+            "texture_type": "INPUT0"
         }
     ],
     "properties": [

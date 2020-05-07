@@ -1,9 +1,9 @@
 {
-    "name": "MaxKernel",
+    "name": "LinearGradientKernel",
     "compute_files": {
         "glsl": [
             "Shaders/GLSL/Compute/Common.glsl",
-            "Shaders/GLSL/Compute/Max.comp.glsl"
+            "Shaders/GLSL/Compute/LinearGradient.comp.glsl"
         ]
     }
 }
